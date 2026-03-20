@@ -45671,13 +45671,13 @@
   {
     "date": "2026-03-18",
     "distance": 8714.849609375,
-    "elevation_gain": 150.0,
+    "elevation_gain": 149.96,
     "id": "22220452363",
     "moving_time": 3254.697006225586,
     "name": "25# ruck run",
     "raw_activity_type": "running",
     "raw_type": "running",
-    "start_date_local": "2026-03-18T16:32:46",
+    "start_date_local": "2026-03-18T16:32:00",
     "type": "Run",
     "year": 2026
   },
@@ -45691,6 +45691,19 @@
     "raw_activity_type": "running",
     "raw_type": "running",
     "start_date_local": "2026-03-19T07:34:59",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 9897.8603515625,
+    "elevation_gain": 165.0,
+    "id": "22237339692",
+    "moving_time": 3396.2770080566406,
+    "name": "Adair County Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-03-20T07:08:39",
     "type": "Run",
     "year": 2026
   }
